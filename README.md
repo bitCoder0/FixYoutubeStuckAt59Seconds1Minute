@@ -1,8 +1,7 @@
 # YouTube Embed Generator
 
-A temporary solution that tries to fix the problem of users who have the problem of stopping video at the first seconds(usually 59 seconds or so called 1 minute)
-
-## How To Use
+A temporary solution that attempts to address the issue where YouTube videos stop playing after the first few seconds, typically at around 59 seconds or overally before 1 minute.
+## How To Use ⬇️
 
 1. Open this URL: [https://bitcoder0.github.io/FixYoutubeStuckAt59Seconds1Minute/](https://bitcoder0.github.io/FixYoutubeStuckAt59Seconds1Minute/)
 2. Enter the YouTube video URL.
